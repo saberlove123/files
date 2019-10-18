@@ -1,0 +1,140 @@
+.up{
+	width:100%;
+	min-width:1100px;
+	height: 620px;
+	background-image: url(gonggong.png) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	
+}
+* {
+    margin: 0 auto;
+    text-decoration: none;
+    font-family: 'Microsoft Yahei';
+}
+div{
+	display: block;
+}
+.up1{
+	width: 1100px;
+	height: 120px;
+	position: relative;
+}
+.up11{
+	width: 60px;
+	height: 60px;
+	margin: 20px 20px 20px 20px;
+	background-image: url(gong.png);
+	background-repeat: no-repeat;
+	border-radius: 10%;
+	float: left;
+	
+}
+.up22{
+	font-size: 30px;
+	color: #fff;
+	font-family: "microsoft yahei";
+	line-height: 100px;
+}
+
+.up33{position: absolute;right:21%;color: #EEEEEE;}
+.middle{width: 1000px;
+		height: 500px;
+		position: relative;
+	
+}
+.middle1{width: 100%;
+		height: 100%;
+		position: relative;
+	}
+.middle1left{width: 500px;
+			height:400px;
+			float: left;
+			margin-top: 100px;
+
+	
+}
+.middle1right{
+	
+}
+.midtop{width: 400px;
+		height:100px;
+		margin-left: 0;
+	
+}
+.midmid{font-size: 45px;
+		color: #FFFFFF;
+	
+}
+.gg{font-size:50px;
+	color: #EEEEEE;
+	margin-right: 20px;
+	
+}
+.gg2{font-size: 35px;
+	color: #EEEEEE;
+	margin-top: 10px;
+}
+.beta{background-color: tomato;
+	border-radius: 15%;
+	color: #EEEEEE;
+	width: 75px;
+	height:50px;
+	margin-left: 20px;
+}
+.line{
+	width: 200px;
+	height:0 ;
+	position: absolute;
+	border-top: solid 1px whitesmoke;
+	display: block;
+}
+.midbot{width: 200px;
+		height: 100px;
+		border-radius: 20px;
+		background-color: #FF6347;
+		display: block;
+		font-size: 35px;
+		position: absolute;
+		left:0px ;
+		top: 280px;
+	
+}
+.ma{display: inline-block;
+	float: right;
+	margin-top: 15px;
+	margin-right: 160px;
+	
+}
+.mb{
+	height: 50px;
+	width: 200px;
+	margin-top: 140px;
+	margin-left: 0;
+}
+.middle1right{
+	width: 310px;
+	height: 482px;
+	position: absolute;
+	right: 100px;
+	bottom: 0;
+	background-image: url(phone.png);
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.down{	width:100%;
+	min-width:1100px;
+	height: 300px;
+	
+}
+.p1{width: 10%;
+	display: inline-block;
+	margin: 10px 20px 0px 20px;
+}
+.p2{
+	width:10%;
+	display: inline-block;
+    margin-left: 15%;
+}
